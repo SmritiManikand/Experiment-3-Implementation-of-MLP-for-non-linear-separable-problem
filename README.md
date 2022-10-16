@@ -119,5 +119,10 @@ predict(w1,w2,test)
 ```
 
 ## OUTPUT:
+### LOSSES AND EPOCHS
+![s1](https://user-images.githubusercontent.com/113674204/196027023-30fc2688-5075-4649-9e0e-0ba5291b8419.png)
+![s2](https://user-images.githubusercontent.com/113674204/196027030-9b71f79b-537a-47f8-b819-1fc52e063912.png)
+
 
 ## RESULT:
+
