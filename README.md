@@ -116,7 +116,7 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
-
+```
 
 ## OUTPUT:
 
